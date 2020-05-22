@@ -3,7 +3,7 @@ handleFOUC();
 
 //Primary Code Block
 $(document).ready(function () {
-
+concole.log('how fast');
     handleNavBar();
     handleHomeHeroSection();
     interiorHeader();
